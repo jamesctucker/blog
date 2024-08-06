@@ -5,4 +5,4 @@ dateStart: "01/29/2024"
 dateEnd: "Current"
 ---
 
-Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora.
+Kyros is a behavioral health startup that specializes in providing peer recovery services for individuals wiht substance use disorders (SUD). I build tools that enable our staff to provide better care to our clients, such as a drug and alcohol assessment that cut the industry-standard time it takes to complete by 25%.
